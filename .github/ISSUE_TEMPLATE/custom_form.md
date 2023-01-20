@@ -1,4 +1,4 @@
-name: Bug Report
+name: Peder form
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
