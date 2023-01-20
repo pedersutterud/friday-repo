@@ -1,6 +1,6 @@
 name: Peder form
 description: File a bug report
-title: "[Bug]: "
+title: "[Peder]: "
 labels: ["bug", "triage"]
 assignees:
   - octocat
